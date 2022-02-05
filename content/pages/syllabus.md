@@ -47,18 +47,135 @@ This is a doctoral-level seminar, so **it is expected that students will borrow,
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction: History and the Idea of Technology |
-| 2 | Geography and Systems I: Manufacturing and Distribution |
-| 3 | Geography and Systems II: Landscape and Technology |
-| 4 | Manufacturing |
-| 5 | Human and Machine I: War Machines |
-| 6 | Human and Machine II: Modernist Cybernetics |
-| 7 | Biography |
-| 8 | Modernist Visions |
-| 9 | Human and Machine IV: Gender, Sex and the Body |
-| 10 | Technology and Representation I |
-| 11 | Technology and Representation II: Computing |
-| 12 | In-class Film Viewing: _Architecture of Doom_ |
-| 13 | Wrap-up Discussion
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: History and the Idea of Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Geography and Systems I: Manufacturing and Distribution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Geography and Systems II: Landscape and Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Human and Machine I: War Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Human and Machine II: Modernist Cybernetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Biography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Modernist Visions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Human and Machine IV: Gender, Sex and the Body
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Technology and Representation I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Technology and Representation II: Computing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+In-class Film Viewing: _Architecture of Doom_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

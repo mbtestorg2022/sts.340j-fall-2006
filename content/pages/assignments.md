@@ -10,10 +10,69 @@ The book reviews should each focus on one of the following themes: historiograph
 
 The following examples of student work are courtesy of the students and used with permission.
 
-| students | papers |
-| Harold Fox | Review of Hoddeson & Riordan's _Crystal Fire: The Birth of the Information Age_ ([PDF]({{< baseurl >}}/resources/fox_crystalfire)) |
-| Hope Ginsburg | Modernist Visions: Reviews of Hughes' _American Genesis_ and Wohl's _A Passion for Wings_ ([PDF]({{< baseurl >}}/resources/ginsburg_modrnst)) |
-| Hope Ginsburg | Computing: Review of Black's _IBM and the Holocaust_ ([PDF]({{< baseurl >}}/resources/ginsburg_computg)) |
-| Lisa Messeri | Review of Kern's _The Culture of Time and Space_ ([PDF]({{< baseurl >}}/resources/lmesseri1)) |
-| Lisa Messeri | Review of Fritzsche's _A Nation of Fliers_ ([PDF]({{< baseurl >}}/resources/lmesseri2)) |
-| Lisa Messeri | Review of Waldrop's _The Dream Machine_ ([PDF]({{< baseurl >}}/resources/lmesseri3))
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+students
+{{< thclose >}}
+{{< thopen >}}
+papers
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Harold Fox
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Hoddeson & Riordan's _Crystal Fire: The Birth of the Information Age_ ([PDF]({{< baseurl >}}/resources/fox_crystalfire))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hope Ginsburg
+{{< tdclose >}}
+{{< tdopen >}}
+Modernist Visions: Reviews of Hughes' _American Genesis_ and Wohl's _A Passion for Wings_ ([PDF]({{< baseurl >}}/resources/ginsburg_modrnst))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hope Ginsburg
+{{< tdclose >}}
+{{< tdopen >}}
+Computing: Review of Black's _IBM and the Holocaust_ ([PDF]({{< baseurl >}}/resources/ginsburg_computg))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lisa Messeri
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Kern's _The Culture of Time and Space_ ([PDF]({{< baseurl >}}/resources/lmesseri1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lisa Messeri
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Fritzsche's _A Nation of Fliers_ ([PDF]({{< baseurl >}}/resources/lmesseri2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lisa Messeri
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Waldrop's _The Dream Machine_ ([PDF]({{< baseurl >}}/resources/lmesseri3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
